@@ -19,7 +19,7 @@
     margin: auto;
 }
 .main{
-    height: 180px;
+    height: 160px;
     width: 100%;
     background-color: #FFFFFF;
     display: flex;
@@ -29,7 +29,7 @@
 .green{
    height: 180px;
    width:100%;
-   background-color: greenyellow;
+   background-color:#13800A;
    display: inline-block;
    
 }
