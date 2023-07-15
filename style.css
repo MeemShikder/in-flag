@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 60vh;
+    width: 70%;
+    border-color: 2 px solid black;
+    margin: auto;
+    
+}
+.gray{
+    height: 180px;
+    width: 100%;
+    background-color:#DD8D34;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.main{
+    height: 180px;
+    width: 100%;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.green{
+   height: 180px;
+   width:100%;
+   background-color: greenyellow;
+   display: inline-block;
+   
+}
